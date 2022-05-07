@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<html>
+<head>
+    <title>测试结果汇总</title>
+    <style>
+        .bg{
+			background: url(../reuse/img/bg.png);
+			width: 100%;
+			height: 100%;
+		}
+        .fail {
+            color: red;
+			width: 7emem;
+			text-align: center;
+        }
+        .success {
+            color: green;
+			width: 7emem;
+			text-align: center;
+        }
+		.details-col-elapsed {
+			width: 7em;
+			text-align: center;
+		}
+		.details-col-msg {
+			width: 7em;
+			text-align: center;
+			background-color:#ccc;
+		}
+    </style>
+</head>
+<body class="bg">
+<div>
+<div><h2>战二自动化测试报告</h2></div>
+    <table width="800" border="thin" cellspacing="0" cellpadding="0">
+        <tr  width="600">
+            <th width="300" class='details-col-msg'>脚本名称</th>
+            <th class='details-col-msg'>执行结果</th>
+        </tr>
+        
+        <tr>
+            <td class='details-col-elapsed'><a href="log/test1/log.html" target="view_window">test1</a></td>
+            <td class="fail">失败</td>
+        </tr>
+        
+        <tr>
+            <td class='details-col-elapsed'><a href="log/test2/log.html" target="view_window">test2</a></td>
+            <td class="fail">失败</td>
+        </tr>
+        
+    </table>
+</div>
+</body>
+</html>

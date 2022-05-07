@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f1100b3-2192-4ef3-9e35-08f37cce80ae" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/suite/test2.air/test2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="77" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/suite/test1.air/test1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/suite/myRunner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>noviceBattle</find>
+      <find>tpl1637517719300</find>
+      <find>tpl1637517313031</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/suite/test1.air/aaa.py" />
+        <option value="$PROJECT_DIR$/reuse/initialization.py" />
+        <option value="$PROJECT_DIR$/aaa.py" />
+        <option value="$PROJECT_DIR$/reuse/common.py" />
+        <option value="$PROJECT_DIR$/suite/test1.air/test1.py" />
+        <option value="$PROJECT_DIR$/reuse/gamereuse.py" />
+        <option value="$PROJECT_DIR$/suite/myRunner.py" />
+        <option value="$PROJECT_DIR$/suite/test2.air/test2.py" />
+        <option value="$PROJECT_DIR$/suite/summary_template.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="240" />
+    <option name="y" value="130" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="airtestRuAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="airtestRuAuto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="airtestRuAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="airtestRuAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="suite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="airtestRuAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="airtestRuAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="suite" type="462c0819:PsiDirectoryNode" />
+              <item name="test1.air" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="airtestRuAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="airtestRuAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="suite" type="462c0819:PsiDirectoryNode" />
+              <item name="test2.air" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/suite/test2.air" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\aaaa\airtestRuAuto\suite\test2.air" />
+      <recent name="F:\aaaa\airtestRuAuto\suite\test1.air" />
+      <recent name="F:\antAuto\airtestRuAuto\reuse\img" />
+      <recent name="F:\antAuto\airtestRuAuto\suite\test1.air\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\antAuto\airtestRuAuto\reuse\img" />
+      <recent name="F:\antAuto\airtestRuAuto\suite\test1.air" />
+      <recent name="F:\antAuto\airtestRuAuto\suite\test1.air\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="myRunner" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="airtestRuAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\python3.6\azlj\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/suite/myRunner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f1100b3-2192-4ef3-9e35-08f37cce80ae" name="Default Changelist" comment="" />
+      <created>1638152578396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638152578396</updated>
+      <workItem from="1638152579585" duration="346000" />
+      <workItem from="1638153104299" duration="847000" />
+      <workItem from="1638721068408" duration="599000" />
+      <workItem from="1638884947947" duration="120000" />
+      <workItem from="1638885230158" duration="2662000" />
+      <workItem from="1638890372408" duration="2844000" />
+      <workItem from="1639290612249" duration="594000" />
+      <workItem from="1639325067398" duration="2753000" />
+      <workItem from="1639465517028" duration="7806000" />
+      <workItem from="1639490281333" duration="11567000" />
+      <workItem from="1639561360817" duration="5039000" />
+      <workItem from="1639578336646" duration="1383000" />
+      <workItem from="1641205827985" duration="2660000" />
+      <workItem from="1644744388124" duration="1356000" />
+      <workItem from="1650195670846" duration="2715000" />
+      <workItem from="1650199359942" duration="434000" />
+      <workItem from="1650200276312" duration="38000" />
+      <workItem from="1650200339856" duration="3183000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="46946000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.49404117" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/airtestRuAuto$aaa__1_.coverage" NAME="aaa (1) Coverage Results" MODIFIED="1639578843597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/airtestRuAuto$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1639492262310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suite/test1.air" />
+    <SUITE FILE_PATH="coverage/airtestRuAuto$myRunner.coverage" NAME="myRunner Coverage Results" MODIFIED="1650202994839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/suite/test1.air/tpl1637588126452.png" />
+    <entry file="file://$PROJECT_DIR$/suite/test1.air/tpl1616502023840.png" />
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637491382786.png" />
+    <entry file="file://$PROJECT_DIR$/suite/test1.air/tpl1637516876487.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suite/test1.air/tpl1637520453799.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suite/test1.air/tpl1637517313031.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suite/test1.air/tpl1637517348506.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suite/test1.air/tpl1637518155729.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suite/test1.air/tpl1637518614324.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suite/test1.air/tpl1637518833360.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suite/test1.air/tpl1637517252354.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suite/test1.air/tpl1637520579280.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suite/test1.air/tpl1637520795821.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637491173439.png" />
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637516522093.png" />
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637517719300.png" />
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637519377151.png" />
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637494225002.png" />
+    <entry file="file://F:/python/azlj/Lib/site-packages/PIL/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637494770260.png" />
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637494818625.png" />
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637516731604.png" />
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637521786242.png" />
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637521039934.png" />
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637519309012.png" />
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637491961100.png" />
+    <entry file="file://$PROJECT_DIR$/suite/test1.air/tpl1637493999967.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suite/test1.air/tpl1637494066870.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suite/test1.air/tpl1637516238137.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637520746949.png" />
+    <entry file="file://$PROJECT_DIR$/reuse/img/1.png" />
+    <entry file="file://$PROJECT_DIR$/suite/test1.air/aaa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaa.py" />
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637521250730.png" />
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637521204399.png" />
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637516765379.png" />
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637488379134.png" />
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637488412189.png" />
+    <entry file="file://$PROJECT_DIR$/reuse/img/tpl1637516135918.png" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/suite/summary.html" />
+    <entry file="file://$PROJECT_DIR$/reuse/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reuse/gamereuse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reuse/initialization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suite/test2.air/log/1650201657780.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suite/test2.air/tpl1650201099046.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suite/summary_template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suite/test1.air/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suite/test2.air/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="77" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suite/myRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
